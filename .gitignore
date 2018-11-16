@@ -1,0 +1,6 @@
+
+groceries/.editorconfig
+*.json
+groceries/src/app/app.html
+groceries/src/assets/icon/favicon.ico
+*.png
